@@ -1,10 +1,10 @@
 <h1 align="center">Hey 👋, moi c'est Charlène</h1>
-<h3 align="center">Après 6 ans passés chez Apple en tant que "Genius", je suis actuellement en reconversion professionnelle dans les métiers de développement web.</h3>  
+<h4 align="center">Après 6 ans passés chez Apple en tant que "Genius", je suis actuellement en reconversion professionnelle dans les métiers de développement web.</h4>  
 
  🌱 Étudiante chez O'Clock  
  🌱 Formation "Développeur web et web Mobile"  
- 🌱 Promo Xénon (mai 2023-octobre2023)  
- 🌱 Spécialisation possible : Réact ou Symfony  
+ 🌱 Promo Xénon (mai 2023-octobre 2023)  
+ 🌱 Spécialisations possible : Réact ou Symfony  
 
 - 📫 contact **c.delanoe53@gmail.com**
 
