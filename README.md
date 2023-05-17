@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, moi c'est Charlène</h1>
 <h3 align="center">Après 6 ans passés chez Apple en tant que "Genius", je suis actuellement en reconversion professionnelle dans les métiers de développement web.</h3>
 
-- 🌱 Je suis étudiante chez O'Clock, **dans la promo Xénon de la formation développeur web et web mobile. (débutée le 02 Mai 2023)**
+- 🌱 Je suis étudiante chez O'Clock, dans la promo Xénon de la formation dev web et web mobile PHP. (débutée le 02 Mai 2023)
 
 - 📫 contact **c.delanoe53@gmail.com**
 
