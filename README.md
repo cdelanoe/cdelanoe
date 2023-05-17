@@ -1,5 +1,4 @@
-# <h1 align="center">Hey 👋, moi c'est Charlène</h1>
-
+<h1 align="center">Hey 👋, moi c'est Charlène</h1>
 <h3 align="center">Après 6 ans passés chez Apple en tant que "Genius", je suis actuellement en reconversion professionnelle dans les métiers de développement web.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cdelanoe&label=Profile%20views&color=0e75b6&style=flat" alt="cdelanoe" /> </p>
