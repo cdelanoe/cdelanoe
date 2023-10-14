@@ -1,10 +1,10 @@
 <h1 align="center">Hey 👋, moi c'est Charlène</h1>
 <h4 align="center">Après 6 ans passés chez Apple en tant que "Genius", je suis actuellement en reconversion professionnelle dans les métiers de développement web.</h4>  
 
- 🌱 À la recherche d'une entreprise pour continuer l'aventure O'Clock en alternance
- 🌱 Étudiante chez O'Clock, promo Xénon (mai 2023-octobre 2023)
- 🌱 Formation "Développeur web et web Mobile" (passage du Titre Pro RNCP 5 en Novembre 2023)
- 🌱 Spécialisation Réact
+ 🌱 À la recherche d'une entreprise pour continuer l'aventure O'Clock en alternance  
+ 🌱 Étudiante chez O'Clock, promo Xénon (mai 2023-octobre 2023)  
+ 🌱 Formation "Développeur web et web Mobile" (passage du Titre Pro RNCP 5 en Novembre 2023)  
+ 🌱 Spécialisation Réact  
 
 - 📫 contact **c.delanoe53@gmail.com**
 
